@@ -13,39 +13,39 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Morocco/Casablanca
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Armang # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A little blog for little Embed Tech and Programming # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A little blog for little Embed Tech and Programming.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://abdoraqi.github.io'"
 
 github:
-  username: github_username # change to your github username
+  username: abdoraqi # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username:  # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Abdessamad Raqioui
+  email: abdoraqi@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/abdoraqi # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/abdessamad-raqioui-9a0872184/
 
 google_site_verification: # fill in to your verification string
 
@@ -73,10 +73,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 'https://media.licdn.com/dms/image/C4D03AQHzVh8oY-Mtvg/profile-displayphoto-shrink_800_800/0/1606266752093?e=1694044800&v=beta&t=apwf25-svGYwk_bMWvDZxG8rhbJGzzGj5SMxZ9I6r_g'
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/C4D03AQHzVh8oY-Mtvg/profile-displayphoto-shrink_800_800/0/1606266752093?e=1694044800&v=beta&t=apwf25-svGYwk_bMWvDZxG8rhbJGzzGj5SMxZ9I6r_g
 
 # boolean type, the global switch for TOC in posts.
 toc: true
